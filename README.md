@@ -89,4 +89,5 @@ versel
 
 ## 📌 Deploy Online
 
-A aplicação está disponível em:
+A aplicação está disponível em: https://vercel.com/camila-borges-de-jesus-s-projects/lacrei-saude
+Domains: https://lacrei-saude-kappa.vercel.app/
